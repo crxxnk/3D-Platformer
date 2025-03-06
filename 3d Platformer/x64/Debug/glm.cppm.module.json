@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "3d Platformer\\x64\\Debug\\glm.cppm.obj",
+            "outputs": [
+                "C:\\Users\\PC\\Desktop\\Visual Studio\\C++\\3d Platformer\\3d Platformer\\x64\\Debug\\vc143.pdb",
+                "3d Platformer\\x64\\Debug\\",
+                "C:\\Users\\PC\\Desktop\\Visual Studio\\C++\\3d Platformer\\3d Platformer\\x64\\Debug\\glm.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "c:\\users\\pc\\desktop\\visual studio\\c++\\3d platformer\\include\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

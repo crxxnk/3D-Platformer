@@ -1,0 +1,10 @@
+﻿  Scanning sources for module dependencies...
+  glm.cppm
+  Compiling...
+  glm.cppm
+  glm.cpp
+  main.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  3d Platformer.vcxproj -> C:\Users\PC\Desktop\Visual Studio\C++\3d Platformer\x64\Debug\3d Platformer.exe
